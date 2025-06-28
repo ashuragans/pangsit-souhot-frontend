@@ -14,30 +14,30 @@ Website ini dirancang sebagai platform promosi digital untuk memperkenalkan prod
 
 ## ✨ Fitur Unggulan
 
-🎁 Fitur Poin Hadiah
+* **🎁 Fitur Poin Hadiah**
   Pengguna dapat mengakses sistem poin hadiah langsung dari laman utama untuk mendapatkan berbagai penawaran menarik.
 
-🗣️ Sistem Ulasan Transparan
+* **🗣️ Sistem Ulasan Transparan**
   Website memungkinkan pelanggan mengisi review yang langsung muncul di halaman ulasan — menciptakan kesan jujur, real-time, dan autentik.
 
-🔔 Notifikasi Berlangganan
+* **🔔 Notifikasi Berlangganan**
   Pengunjung dapat mengaktifkan notifikasi untuk menerima update seputar menu baru dan diskon spesial.
 
-🛒 Pemesanan Langsung via Shopee & WhatsApp
+* **🛒 Pemesanan Langsung via Shopee & WhatsApp**
   Tautan pemesanan langsung tersedia untuk kemudahan pelanggan.
 
-📍 Lokasi & Kontak
+* **📍 Lokasi & Kontak**
   Informasi lengkap lokasi UMKM dan kontak tersedia, termasuk Google Maps, jam buka, dan media sosial.
 
 ## 💻 Teknologi yang Digunakan
 
 Website ini dikembangkan menggunakan:
 
- **HTML5** – Struktur halaman dan konten
- **CSS3 / Tailwind CSS** – Styling responsif dan modern
- **JavaScript (ES6)** – Interaktivitas, animasi, dan integrasi formulir
- **Netlify** – Platform hosting statis
- **Lucide Icons** – Ikon SVG interaktif dan ringan
+* **HTML5** – Struktur halaman dan konten
+* **CSS3 / Tailwind CSS** – Styling responsif dan modern
+* **JavaScript (ES6)** – Interaktivitas, animasi, dan integrasi formulir
+* **Netlify** – Platform hosting statis
+* **Lucide Icons** – Ikon SVG interaktif dan ringan
 
 ## 📫 Kontak
 
