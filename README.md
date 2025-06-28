@@ -2,11 +2,11 @@
 
 # 🥟 Pangsit SouHot – Jajanan Autentik Favorit di Karawang
 
-Selamat datang di repositori resmi untuk website UMKM **Pangsit SouHot**, penyedia pangsit autentik khas Indonesia yang berbasis di Karawang, Jawa Barat.
+Selamat datang di repositori resmi untuk website UMKM *Pangsit SouHot*, penyedia pangsit autentik khas Indonesia yang berbasis di Karawang, Jawa Barat.
 
 ## 🌶️ Tentang Pangsit SouHot
 
-**Pangsit SouHot** adalah usaha mikro yang mengusung konsep kuliner tradisional Indonesia dengan sentuhan modern. Kami menyajikan berbagai varian pangsit – baik rebus maupun goreng – serta menu pelengkap seperti mie pangsit dan dimsum ayam yang praktis dan menggugah selera. Semua produk dibuat segar setiap hari dengan bahan berkualitas tinggi.
+*Pangsit SouHot* adalah usaha mikro yang mengusung konsep kuliner tradisional Indonesia dengan sentuhan modern. Kami menyajikan berbagai varian pangsit – baik rebus maupun goreng – serta menu pelengkap seperti mie pangsit dan dimsum ayam yang praktis dan menggugah selera. Semua produk dibuat segar setiap hari dengan bahan berkualitas tinggi.
 
 ## 🌐 Konsep Website
 
